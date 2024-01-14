@@ -8,3 +8,5 @@ We also discovered that the data we had are a portion of the original one availa
 In our work, we focused on the nodes which have an in-degree or out-degree of at least one (excluding the singletons). The graph we worked on is therefore characterized by 1224 nodes, liked to each other by 19025 edges. The source from wich the dataset is reachable is the following: http://konect.cc/networks/dimacs10-polblogs/.
 
 Below a representation of the Network, which was coloured following the political orientation of the nodes (blue for left or liberal and red for right or conservative), which was obtained by implementing the graph in Gephi and applying the "force Atlas 2" algorithm for the visualization. We can see that the graph is polarized according to the political orientation of nodes.
+
+<img src="graph visualization.png">
